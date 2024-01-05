@@ -1,3 +1,0 @@
-# SPS Nerdarray
-
-Podcast

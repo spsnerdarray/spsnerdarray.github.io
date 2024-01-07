@@ -5,4 +5,8 @@ Category: Podcast
 
 In dieser Folge sprechen wir über die Projekte und Highlights dieses Jahres und kündigen am Ende noch eine Revolution an. Ihr könnt als gespannt auf die nächste Sendung sein.
 
+
+[Podcast](https://sps-nerdarray.podigee.io/11-sps-nerdarray-10-weihnachtsjahresruckblicksendung)
+
+
 Feedback und Anregungen bitte an info@nerdarray.de

@@ -7,3 +7,9 @@ Category: Über uns
 Ein deutschsprachiger Podcast rund um Automatisierung, SPS, Technologie und Programmiersprachen
 
 Wir sind drei Nerds ...
+
+
+
+
+
+Feedback und Anregungen bitte an info@nerdarray.de

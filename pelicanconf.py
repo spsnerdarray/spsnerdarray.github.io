@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHORS = 'Sven', 'Patrick', 'Neels'
 COPYRIGHT = '2024'
 SITENAME = 'sps-nerdarray'
-#SITEURL = 'https://localhost:8000'
+SITEURL = 'https://spsnerdarray.github.io'
 SITESUBTITLE = 'Ein deutschsprachiger Podcast über sps-Programmierung'
 PATH = 'content'
 TIMEZONE = 'Europe/Rome'

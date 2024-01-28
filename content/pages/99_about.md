@@ -38,3 +38,4 @@ Und das durch <b>euch</b>!  </p>
         <p>Mittlerweile gehören neben den IEC61131-3 Sprachen, auch python, c, javascript sowie der Umgang mit Scada-Systmen zu meinen Expertiesen.</p>
         <p>Gerne teile ich im Podcast meine Erfahrung mit euch, und hoffe das Interesse um das Thema Automatiesierung, bei dem ein oder anderem erwecken zu können.</p>
 </details>
+<p>

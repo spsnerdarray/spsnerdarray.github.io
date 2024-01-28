@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHORS = 'Sven', 'Patrick', 'Neels'
 COPYRIGHT = '2024'
 SITENAME = 'sps-nerdarray'
-SITEURL = 'https://spsnerdarray.github.io'
+SITEURL = '/'
 SITESUBTITLE = 'Ein deutschsprachiger Podcast über sps-Programmierung'
 PATH = 'content'
 TIMEZONE = 'Europe/Rome'
@@ -14,7 +14,7 @@ DEFAULT_LANG = 'de'
 THEME = 'themes/flat'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['readtime', 'neighbors']
-STATIC_PATHS = ['images', 'static']
+STATIC_PATHS = ['images']
 EXTRA_PATH_METADATA = {
     'images/logo.ico': {'path': 'logo.ico'},
     'images/logo.png': {'path': 'logo.png'},
